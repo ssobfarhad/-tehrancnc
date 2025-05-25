@@ -1,16 +1,10 @@
-# TehranCNC
+# Tehran CNC – Fanuc CNC Lathe Experts
 
-Welcome to the official GitHub page of **TehranCNC** – A trusted importer of high-quality used CNC machines in Iran.
+Looking to buy high-quality used CNC lathe machines with Fanuc control systems?
 
-We specialize in:
+Visit our full guide on Fanuc CNC Lathe machines here:  
+[https://tehrancnc.com/تراش-cnc-کنترل-فانوک](https://tehrancnc.com/تراش-cnc-کنترل-فانوک)
 
-- CNC lathe machines
-- CNC milling machines
-- Brands like **Doosan**, **Mori Seiki**, and **Fanuc**
-- Machines with Fanuc control systems
+Our team at Tehran CNC provides top-tier machines from trusted brands like Mori Seiki, Doosan, Mazak, and more.
 
-Our goal is to provide reliable, tested equipment with professional support.
-
-**Visit our website:** [https://tehrancnc.com](https://tehrancnc.com)
-
-For more info, feel free to contact us anytime.
+Contact us today for consultation and pricing.
